@@ -4,7 +4,7 @@
   <p>- 🎂 19 Anos
   <p>- 📖 Cursando Sistemas de Informação - 3º semestre</p>
   <p>- 🚀 Objetivo: Desenvolvimento Web</p>
-  <p>- 🌱 Estou estudando atualmente HTML, CSS e JavaScript</p>
+  <p>- 🌱 Estou estudando atualmente JavaScript</p>
 </div>
 
 ##
