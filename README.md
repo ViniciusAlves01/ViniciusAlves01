@@ -3,7 +3,7 @@
 <div>
   <p>- 🎂 19 Anos
   <p>- 📖 Cursando Sistemas de Informação - 3º semestre</p>
-  <p>- 🚀 Objetivo: Desenvolvimento Web</p>
+  <p>- 🚀 Objetivo: Desenvolvimento Full Stack</p>
   <p>- 🌱 Estou estudando atualmente JavaScript</p>
 </div>
 
