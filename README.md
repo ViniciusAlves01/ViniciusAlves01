@@ -2,7 +2,7 @@
 
 <div>
   <p>- 🎂 19 Anos
-  <p>- 📖 Cursando Sistemas de Informação - 3º semestre</p>
+  <p>- 📖 Cursando Sistemas de Informação - 4º semestre</p>
   <p>- 🚀 Objetivo: Desenvolvimento Full Stack</p>
   <p>- 🌱 Estou estudando atualmente JavaScript</p>
 </div>
