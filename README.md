@@ -1,8 +1,8 @@
 <h1>Hi there 👋, me chamo Vinícius Alves!</h1>
 
 <div>
-  <p>- 🎂 19 Anos
-  <p>- 📖 Cursando Sistemas de Informação - 4º semestre</p>
+  <p>- 🎂 20 Anos
+  <p>- 📖 Cursando Sistemas de Informação - 5º semestre</p>
   <p>- 🚀 Objetivo: Desenvolvimento Full Stack</p>
   <p>- 🌱 Estou estudando atualmente JavaScript</p>
 </div>
